@@ -5,7 +5,7 @@ This repository contains a procedure for setting up an odrive, as well as an exa
 Версия odrivetool v0.6.7
 ## ИНСТРУКЦИЯ ПО НАСТРОЙКЕ ODrive v3.6
 ## В случае затруднений можно обратиться к [документации](https://docs.odriverobotics.com/v/latest/fibre_types/com_odriverobotics_ODrive.html#):
-## Внимание! Перед использованием конфигурации ниже нужно проверить, чтобы версия ODrive была 0.5.6 или выше. Инструкция по прошивке ODrive находится [здесь](https://docs.odriverobotics.com/v/0.5.4/odrivetool.html?highlight=update#flashing-with-an-stlink)
+## Внимание! Перед использованием конфигурации ниже нужно проверить, чтобы версия ODrive была 0.5.6 или выше. Инструкция по прошивке ODrive находится [здесь](https://docs.odriverobotics.com/v/0.5.4/odrivetool.html?highlight=update#flashing-with-an-stlink) или на [github](https://github.com/DmitryIpa/ODrive-firmvare-update/blob/main/README.md)
 # 1. Запускаем команду ниже для того, чтобы сбросить ODrive до настроек по умолчанию:
   ```
 odrivetool
